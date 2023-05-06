@@ -17,8 +17,3 @@
 ## 四、展示影片
 ### [影片連結](https://www.youtube.com/watch?v=HjIhahJ6sq8)
 
-  
-  
-  
-  
-</p>
