@@ -1,6 +1,6 @@
 # RFID-Final-Project
 <br>
-<img src="https://github.com/explore23556/RFID-Final-Project/blob/main/%E5%9C%96%E7%89%877.png"; width="500"; margin:auto;/>
+<img src="https://github.com/explore23556/RFID-Final-Project/blob/main/%E5%9C%96%E7%89%877.png"; width="500"; style="display:block; margin:auto";/>
 
 ## 一、專案摘要
 ### 新進學生初到校園，對校園的設施與環境皆很生疏，而以往的作法是學長姊在特定時間，帶著學弟妹們一一走訪校園，但由於Covid-19的關係，多人的團體行動是不被允許的。因此，本專案在學生常去的地點建置RFID讀卡器，讓學生們能夠透過學生證刷卡的方式，來自動地接收含有該地點重要資訊的郵件，以及學生到訪的紀錄來讓班導師查閱。
