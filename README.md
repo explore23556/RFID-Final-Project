@@ -8,6 +8,7 @@
 <h2> 二、我在專案中負責的工作
 <h3> 我主要是負責RFID-MFRC522模組感應卡片資訊、ESP32的WiFi功能將資料傳輸至Firebase資料庫以及透過SMTP協定來將HTML格式的郵件寄至學生信箱。
 <h2> 三、專案架構
-
-
+<p align="center">
+<img src="https://github.com/explore23556/RFID-Final-Project/blob/main/%E5%9C%96%E7%89%878.png"; width="50%";/>
+</p>
 <h2> 四、展示影片
